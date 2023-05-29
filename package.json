@@ -2,9 +2,9 @@
   "name": "monsters-relodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://baosmile7743285.github.io/monster-relodex",
+  "homepage": "https://master.dxfsg1i9vzv8w.amplifyapp.com/monster-relodex",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
