@@ -2,7 +2,7 @@
   "name": "monsters-relodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://master.dxfsg1i9vzv8w.amplifyapp.com/monster-relodex",
+  "homepage": "https://master.dxfsg1i9vzv8w.amplifyapp.com/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.11.0",
